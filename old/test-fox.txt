@@ -1,0 +1,11 @@
+https://www.nomoreransom.org/
+https://www.nomoreransom.org/report-a-crime.html
+https://blog.kaspersky.fr/ransomware-blocker-to-cryptor/5777/
+
+https://rendez-vous.renater.fr/FRC2016
+
+Dans 
+	/var/www/docs.edenpulse.com/htdocs
+sur le serveur
+	docs.edenpulse.com
+
